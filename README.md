@@ -6,4 +6,5 @@
 
 
 **Important:** This is a new branch for Chromatics 3.x series. It is a complete rebuild of Chromatics from the ground up.
+
 It will utilise the new version of Sharlayan for async FFXIV calls and RGB.NET to standardise RGB device SDK's (as opposed to manually managing them as Chromatics 2.x did)
